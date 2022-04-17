@@ -1,0 +1,2 @@
+Hi. This is the first text file I've created.
+I'm practicing how to use Git 
